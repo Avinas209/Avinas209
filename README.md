@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning JS and UI/UX
 - 💞️ I’m looking to collaborate on Frontend
-- 📫 How to reach me avinash.richin20@gmail.com
+- 📫 How to reach me avinash20902@gmail.com
 
 <!---
 Avinas209/Avinas209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
